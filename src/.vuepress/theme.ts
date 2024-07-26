@@ -4,16 +4,17 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
+  
   hostname: "https://mister-hope.github.io",
 
   author: {
-    name: "Tsing",
+    name: "青衣",
     url: "https://mister-hope.com",
   },
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: "/assets/images/卡通蜗牛.png",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
@@ -26,12 +27,12 @@ export default hopeTheme({
   sidebar,
 
   // 页脚
-  footer: "默认页脚",
+  footer: "一只爬往美丽天空之城的丑陋的蜗牛！",
   displayFooter: true,
 
   // 博客相关
   blog: {
-    description: "一个前端开发者",
+    description: "FC极速蜗牛、后端研发攻城狮",
     intro: "/intro.html",
     medias: {
       BiliBili: "https://space.bilibili.com/690659833/channel/collectiondetail?sid=3485782",
@@ -51,6 +52,9 @@ export default hopeTheme({
   metaLocales: {
     editLink: "在 GitHub 上编辑此页",
   },
+
+  // 关闭页面导航
+  breadcrumb: false,
 
   // 如果想要实时查看任何改变，启用它。注: 这对更新性能有很大负面影响
   // hotReload: true,
