@@ -4,28 +4,19 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  
   hostname: "https://mister-hope.github.io",
-
   author: {
     name: "青衣",
     url: "https://mister-hope.com",
   },
-
   iconAssets: "fontawesome-with-brands",
-
   logo: "/assets/images/卡通蜗牛.png",
-
   repo: "vuepress-theme-hope/vuepress-theme-hope",
-
   docsDir: "src",
-
   // 导航栏
   navbar,
-
   // 侧边栏
   sidebar,
-
   // 页脚
   footer: "一只爬往美丽天空之城的丑陋的蜗牛！",
   displayFooter: true,
@@ -38,13 +29,6 @@ export default hopeTheme({
       BiliBili: "https://space.bilibili.com/690659833/channel/collectiondetail?sid=3485782",
       Gitee: "https://example.com",
       GitHub: "https://example.com",
-    },
-  },
-
-  // 加密配置
-  encrypt: {
-    config: {
-      "/demo/encrypt.html": ["1234"],
     },
   },
 
@@ -76,6 +60,10 @@ export default hopeTheme({
 
     // 此处开启了很多功能用于演示，你应仅保留用到的功能。
     mdEnhance: {
+      // 启用 GFM 警告
+      alert: true,
+      // 启用选项卡
+      tabs: true,
       align: true,
       attrs: true,
       codetabs: true,
@@ -103,7 +91,6 @@ export default hopeTheme({
       ],
       sub: true,
       sup: true,
-      tabs: true,
       tasklist: true,
       vPre: true,
 
