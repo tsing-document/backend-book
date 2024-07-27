@@ -60,7 +60,8 @@ export default sidebar(
             collapsible: true,
             expanded: false,
             children: [
-              "introduce"
+              "introduce",
+              "install"
             ],
           }
         ]
