@@ -61,7 +61,8 @@ export default sidebar(
             expanded: false,
             children: [
               "introduce",
-              "install"
+              "install",
+              "client-api"
             ],
           }
         ]
