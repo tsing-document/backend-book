@@ -64,6 +64,7 @@ export default hopeTheme({
       alert: true,
       // 启用选项卡
       tabs: true,
+      // 自定义对其
       align: true,
       attrs: true,
       codetabs: true,

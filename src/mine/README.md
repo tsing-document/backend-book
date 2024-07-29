@@ -10,8 +10,8 @@ titles: ["我是一个兼职FC游戏博主、主业是一名后端研发攻城�
 avatar: '/assets/images/卡通蜗牛.png'
 ---
 
-::: center
-<h1>详细档案</h1>
-:::
+## 知识图谱
 
-内容区域等后面修改一下
+<p style="font-size: 30px;">分布式技术</p>
+
+<button type="button" style="background-color: #4CAF50; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 5px;">zookeeper</button> 

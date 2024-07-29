@@ -63,7 +63,8 @@ export default sidebar(
               "introduce",
               "install",
               "client-api",
-              "watcher"
+              "watcher",
+              "curator"
             ],
           }
         ]
