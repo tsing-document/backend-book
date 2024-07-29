@@ -1,5 +1,5 @@
 ---
-title: 【第五篇章】Curator 更好的管理 Zookeeper
+title: 【第五篇章】Curator 库
 index: false
 isOriginal: true
 category: "分布式技术"

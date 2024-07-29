@@ -55,7 +55,7 @@ export default sidebar(
         expanded: false,
         children: [
           {
-            text: "zookeeper",
+            text: "Zookeeper 文档",
             prefix: "/distributed/zookeeper/",
             collapsible: true,
             expanded: false,
@@ -65,7 +65,17 @@ export default sidebar(
               "client-api",
               "watcher",
               "curator",
-              "lock"
+              "lock",
+              "custer"
+            ],
+          },
+          {
+            text: "Dubbo 文档",
+            prefix: "/distributed/dubbo/",
+            collapsible: true,
+            expanded: false,
+            children: [
+              "introduce",
             ],
           }
         ]
