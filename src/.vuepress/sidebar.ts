@@ -17,8 +17,39 @@ export default sidebar(
             collapsible: true,
             expanded: false,
             children: [
+              // "introduce",
+              // "sql"
+              // {
+              //   text: "基础",
+              //   collapsible: true,
+              //   expanded: false,
+              //   prefix: "/database/mysql/basic/",
+              //   children: ["introduce"],
+              // },
+              // {
+              //   text: "进阶",
+              //   collapsible: true,
+              //   expanded: false,
+              //   prefix: "/database/mysql/intermediate/",
+              //   children: ["sql"],
+              // },
+              // {
+              //   text: "高级",
+              //   collapsible: true,
+              //   expanded: false,
+              //   prefix: "/database/mysql/intermediate/",
+              //   children: ["sql"],
+              // }
+            ],
+          },
+          {
+            text: "REDIS数据库",
+            prefix: "/database/redis/",
+            collapsible: true,
+            expanded: false,
+            children: [
               "introduce",
-              "sql"
+              // "sql"
               // {
               //   text: "基础",
               //   collapsible: true,
