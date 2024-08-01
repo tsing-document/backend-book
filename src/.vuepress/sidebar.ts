@@ -49,7 +49,7 @@ export default sidebar(
             expanded: false,
             children: [
               "introduce",
-              // "sql"
+              "install"
               // {
               //   text: "基础",
               //   collapsible: true,
