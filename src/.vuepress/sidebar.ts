@@ -49,7 +49,8 @@ export default sidebar(
             expanded: false,
             children: [
               "introduce",
-              "install"
+              "install",
+              "type-server"
               // {
               //   text: "基础",
               //   collapsible: true,

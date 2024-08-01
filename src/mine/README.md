@@ -16,3 +16,4 @@ avatar: '/assets/images/卡通蜗牛.png'
 
 <button type="button" style="background-color: #4CAF50; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 5px;">zookeeper</button> 
 <button type="button" style="background-color: #6DEA1A; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 5px;">dubbo</button> 
+<button type="button" style="background-color: #700033; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 5px;">redis</button> 
