@@ -50,7 +50,8 @@ export default sidebar(
             children: [
               "introduce",
               "install",
-              "type-server"
+              "type-server",
+              "transaction",
               // {
               //   text: "基础",
               //   collapsible: true,
