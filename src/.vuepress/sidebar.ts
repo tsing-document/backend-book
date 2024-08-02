@@ -52,7 +52,8 @@ export default sidebar(
               "install",
               "type-server",
               "transaction",
-              "persistence"
+              "persistence",
+              "application"
               // {
               //   text: "基础",
               //   collapsible: true,
