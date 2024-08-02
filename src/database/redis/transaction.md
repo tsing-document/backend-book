@@ -1,5 +1,6 @@
 ---
 title: 【第四篇章】事务
+index: false
 isOriginal: true
 category: "数据库"
 tag: "redis"
