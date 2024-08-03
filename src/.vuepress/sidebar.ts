@@ -53,7 +53,8 @@ export default sidebar(
               "type-server",
               "transaction",
               "persistence",
-              "application"
+              "application",
+              "dynamics-string"
               // {
               //   text: "基础",
               //   collapsible: true,
