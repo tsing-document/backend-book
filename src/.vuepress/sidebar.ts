@@ -117,28 +117,27 @@ export default sidebar(
           }
         ]
       }
+    ],
+    "/java/":
+    [
+      { 
+        text: "Java 技术", 
+        prefix: "/java/",
+        icon: "earth-americas",
+        collapsible: true,
+        expanded: false,
+        children: [
+          {
+            text: "入门篇",
+            prefix: "/java/base",
+            collapsible: true,
+            expanded: false,
+            children: [
+              "introduce"
+            ],
+          }
+        ]
+      }
     ]
-  }, 
-  // "/": [
-  // "",
-  // {
-  //   text: "如何使用",
-  //   icon: "laptop-code",
-  //   prefix: "demo/",
-  //   link: "demo/",
-  //   children: "structure",
-  // },
-  // {
-  //   text: "文章",
-  //   icon: "book",
-  //   prefix: "posts/",
-  //   children: "structure",
-  // },
-  // "intro",
-  // {
-  //   text: "幻灯片",
-  //   icon: "person-chalkboard",
-  //   link: "https://plugin-md-enhance.vuejs.press/zh/guide/content/revealjs/demo.html",
-  // },
-  // ],
+  },
 );

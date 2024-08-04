@@ -9,7 +9,7 @@ export default hopeTheme({
     name: "青衣",
     url: "https://mister-hope.com",
   },
-  iconAssets: "fontawesome-with-brands",
+  iconAssets: "//at.alicdn.com/t/c/font_4642852_lnykmn3nwk.css",
   logo: "/assets/images/卡通蜗牛.png",
   repo: "vuepress-theme-hope/vuepress-theme-hope",
   docsDir: "src",
