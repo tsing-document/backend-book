@@ -134,7 +134,9 @@ export default sidebar(
             expanded: false,
             children: [
               "introduce",
-              "install"
+              "install",
+              "note-data-type-operator",
+              "processcontrol-container"
             ],
           }
         ]
