@@ -137,7 +137,8 @@ export default sidebar(
               "install",
               "note-data-type-operator",
               "processcontrol-container",
-              "oop"
+              "oop",
+              "generic"
             ],
           }
         ]
