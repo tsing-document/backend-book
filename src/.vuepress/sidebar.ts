@@ -138,7 +138,8 @@ export default sidebar(
               "note-data-type-operator",
               "processcontrol-container",
               "oop",
-              "generic"
+              "generic",
+              "abnormal"
             ],
           }
         ]
