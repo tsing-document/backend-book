@@ -140,7 +140,8 @@ export default sidebar(
               "oop",
               "generic",
               "abnormal",
-              "annotation"
+              "annotation",
+              "thread"
             ],
           }
         ]
