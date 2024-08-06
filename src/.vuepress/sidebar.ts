@@ -139,7 +139,8 @@ export default sidebar(
               "processcontrol-container",
               "oop",
               "generic",
-              "abnormal"
+              "abnormal",
+              "annotation"
             ],
           }
         ]
