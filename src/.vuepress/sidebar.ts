@@ -141,7 +141,8 @@ export default sidebar(
               "generic",
               "abnormal",
               "annotation",
-              "thread"
+              "thread",
+              "reflex"
             ],
           }
         ]
