@@ -3,7 +3,7 @@ title: 【第七篇章】异常
 index: false
 isOriginal: true
 category: "JAVA"
-tag: "基础"
+tag: "Java基础"
 date: 2024-08-06
 ---
 

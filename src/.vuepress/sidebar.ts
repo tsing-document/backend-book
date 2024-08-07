@@ -144,6 +144,17 @@ export default sidebar(
               "thread",
               "reflex"
             ],
+          },
+          {
+            text: "进阶篇",
+            prefix: "/java/advanced",
+            collapsible: true,
+            expanded: false,
+            children: [
+              "spring",
+              "springmvc",
+              "mybatis"
+            ],
           }
         ]
       }

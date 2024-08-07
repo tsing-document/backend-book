@@ -3,7 +3,7 @@ title: 【第九篇章】多线程
 index: false
 isOriginal: true
 category: "JAVA"
-tag: "基础"
+tag: "Java基础"
 date: 2024-08-06
 ---
 

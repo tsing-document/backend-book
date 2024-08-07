@@ -3,7 +3,7 @@ title: 【第三篇章】注释、数据类型、运算符
 index: false
 isOriginal: true
 category: "JAVA"
-tag: "基础"
+tag: "Java基础"
 date: 2024-08-04
 ---
 

@@ -3,7 +3,7 @@ title: 【第二篇章】安装JDK以及配置环境变量
 index: false
 isOriginal: true
 category: "JAVA"
-tag: "基础"
+tag: "Java基础"
 date: 2024-08-04
 ---
 

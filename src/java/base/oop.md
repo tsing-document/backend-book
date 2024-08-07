@@ -3,7 +3,7 @@ title: 【第五篇章】面向对象
 index: false
 isOriginal: true
 category: "JAVA"
-tag: "基础"
+tag: "Java基础"
 date: 2024-08-05
 ---
 
