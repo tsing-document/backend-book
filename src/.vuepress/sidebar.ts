@@ -17,22 +17,21 @@ export default sidebar(
             collapsible: true,
             expanded: false,
             children: [
-              // "introduce",
               // "sql"
-              // {
-              //   text: "基础",
-              //   collapsible: true,
-              //   expanded: false,
-              //   prefix: "/database/mysql/basic/",
-              //   children: ["introduce"],
-              // },
-              // {
-              //   text: "进阶",
-              //   collapsible: true,
-              //   expanded: false,
-              //   prefix: "/database/mysql/intermediate/",
-              //   children: ["sql"],
-              // },
+              {
+                text: "基础",
+                collapsible: true,
+                expanded: false,
+                prefix: "/database/mysql/basic/",
+                children: ["introduce"],
+              },
+              {
+                text: "进阶",
+                collapsible: true,
+                expanded: false,
+                prefix: "/database/mysql/advanced/",
+                children: ["system-mysql-server"],
+              },
               // {
               //   text: "高级",
               //   collapsible: true,
@@ -55,7 +54,8 @@ export default sidebar(
               "persistence",
               "application",
               "dynamics-string",
-              "list"
+              "list",
+              "efficient"
               // {
               //   text: "基础",
               //   collapsible: true,
