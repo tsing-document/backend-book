@@ -33,7 +33,8 @@ export default sidebar(
                 children: [
                   "system-mysql-server",
                   "request-process",
-                  "innodb"
+                  "innodb",
+                  "binlog"
                 ],
               },
               // {
