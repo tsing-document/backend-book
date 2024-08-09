@@ -30,7 +30,11 @@ export default sidebar(
                 collapsible: true,
                 expanded: false,
                 prefix: "/database/mysql/advanced/",
-                children: ["system-mysql-server"],
+                children: [
+                  "system-mysql-server",
+                  "request-process",
+                  "innodb"
+                ],
               },
               // {
               //   text: "高级",
