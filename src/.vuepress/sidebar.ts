@@ -186,5 +186,18 @@ export default sidebar(
         ]
       }
     ],
+    "/interview/":
+    [
+      { 
+        text: "面试宝典", 
+        prefix: "/interview/",
+        icon: "earth-americas",
+        collapsible: true,
+        expanded: false,
+        children: [
+          "mybatis"
+        ]
+      }
+    ]
   },
 );
