@@ -14,4 +14,4 @@ avatar: '/assets/images/卡通蜗牛.png'
 
 <p style="font-size: 30px;">分布式技术</p>
 
-<PDF url="//theme-hope-assets.vuejs.press/files/20240705.pdf" />
+<PDF url="/files/20240705.pdf" />

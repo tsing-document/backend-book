@@ -163,6 +163,27 @@ export default sidebar(
           }
         ]
       }
-    ]
+    ],
+    "/other/":
+    [
+      { 
+        text: "奇谈杂论", 
+        prefix: "/other/",
+        icon: "earth-americas",
+        collapsible: true,
+        expanded: false,
+        children: [
+          {
+            text: "服务器",
+            prefix: "/other/server/nginx",
+            collapsible: true,
+            expanded: false,
+            children: [
+              "introduce"
+            ],
+          }
+        ]
+      }
+    ],
   },
 );

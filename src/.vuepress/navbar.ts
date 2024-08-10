@@ -6,6 +6,9 @@ export default navbar(
     { text: "Java技术", icon: "java", link: "/java/base/introduce.md",  activeMatch: "^/java/$",  },
     { text: "分布式技术", icon: "edasqiyejifenbushiyingyongfuwu", link: "/distributed/zookeeper/introduce.md",  activeMatch: "^/distributed/$",  },
     { text: "数据库技术", icon: "shujuku", link: "/database/mysql/basic/introduce.md",  activeMatch: "^/database/$", },
+    { text: "奇谈杂论", icon: "guaishou", link: "/other/server/nginx/index.md",  activeMatch: "^/other/$", },
+    { text: "面试宝典", icon: "stump", link: "/database/mysql/basic/introduce.md",  activeMatch: "^/database/$", },
+    { text: "书籍下载", icon: "jiandurenyuan", link: "/database/mysql/basic/introduce.md",  activeMatch: "^/database/$", },
     "/mine/"
   ]
 );
