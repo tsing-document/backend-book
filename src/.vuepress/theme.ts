@@ -3,6 +3,9 @@ import { hopeTheme } from "vuepress-theme-hope";
 import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
+// 插件使用
+import { componentsPlugin } from "vuepress-plugin-components";
+
 export default hopeTheme({
   hostname: "https://mister-hope.github.io",
   author: {
@@ -55,7 +58,7 @@ export default hopeTheme({
     // },
 
     components: {
-      components: ["Badge", "VPCard"],
+      components: ["Badge", "VPCard", "PDF"],
     },
 
     // 此处开启了很多功能用于演示，你应仅保留用到的功能。
