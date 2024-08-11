@@ -195,7 +195,8 @@ export default sidebar(
         collapsible: true,
         expanded: false,
         children: [
-          "mybatis"
+          "mybatis",
+          "mysql"
         ]
       }
     ]
