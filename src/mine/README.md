@@ -10,8 +10,6 @@ titles: ["我是一个兼职FC游戏博主、主业是一名后端研发攻城�
 avatar: '/assets/images/卡通蜗牛.png'
 ---
 
-## 知识图谱
-
-<p style="font-size: 30px;">分布式技术</p>
+## 个人通行证
 
 <PDF url="/files/20240705.pdf" />
