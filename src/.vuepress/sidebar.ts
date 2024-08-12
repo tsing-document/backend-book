@@ -195,6 +195,7 @@ export default sidebar(
         collapsible: true,
         expanded: false,
         children: [
+          "java_base",
           "mybatis",
           "mysql",
           "thread"
