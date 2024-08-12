@@ -196,7 +196,8 @@ export default sidebar(
         expanded: false,
         children: [
           "mybatis",
-          "mysql"
+          "mysql",
+          "thread"
         ]
       }
     ]

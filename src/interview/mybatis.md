@@ -1,5 +1,5 @@
 ---
-title: MyBatis 面试宝典
+title: MyBatis
 index: false
 isOriginal: true
 category: "面试宝典"

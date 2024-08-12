@@ -1,5 +1,5 @@
 ---
-title: MySQL 面试宝典
+title: MySQL
 index: false
 isOriginal: true
 category: "面试宝典"
