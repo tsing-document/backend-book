@@ -196,9 +196,10 @@ export default sidebar(
         expanded: false,
         children: [
           "java_base",
+          "thread",
           "mybatis",
-          "mysql",
-          "thread"
+          "spring",
+          "mysql"
         ]
       }
     ]

@@ -1,5 +1,5 @@
 ---
-title: Java 基础
+title: Java 基础 🍉
 index: false
 isOriginal: true
 category: "面试宝典"
