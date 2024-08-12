@@ -199,6 +199,7 @@ export default sidebar(
           "thread",
           "mybatis",
           "spring",
+          "springboot",
           "mysql"
         ]
       }
