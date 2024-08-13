@@ -5,28 +5,28 @@ export default sidebar(
     "/database/": 
     [
       { 
-        text: "数据库技术", 
+        text: "📁数据库技术", 
         prefix: "/database/",
         icon: "database",
         collapsible: true,
         expanded: false,
         children: [
           {
-            text: "MYSQL数据库",
+            text: "📁MYSQL数据库",
             prefix: "/database/mysql/",
             collapsible: true,
             expanded: false,
             children: [
               // "sql"
               {
-                text: "基础",
+                text: "📁基础",
                 collapsible: true,
                 expanded: false,
                 prefix: "/database/mysql/basic/",
                 children: ["introduce"],
               },
               {
-                text: "进阶",
+                text: "📁进阶",
                 collapsible: true,
                 expanded: false,
                 prefix: "/database/mysql/advanced/",
@@ -47,7 +47,7 @@ export default sidebar(
             ],
           },
           {
-            text: "REDIS数据库",
+            text: "📁REDIS数据库",
             prefix: "/database/redis/",
             collapsible: true,
             expanded: false,
@@ -90,14 +90,14 @@ export default sidebar(
     "/distributed/":
     [
       { 
-        text: "分布式技术", 
+        text: "📁分布式技术", 
         prefix: "/distributed/",
         icon: "earth-americas",
         collapsible: true,
         expanded: false,
         children: [
           {
-            text: "Zookeeper 文档",
+            text: "📁Zookeeper 文档",
             prefix: "/distributed/zookeeper/",
             collapsible: true,
             expanded: false,
@@ -112,7 +112,7 @@ export default sidebar(
             ],
           },
           {
-            text: "Dubbo 文档",
+            text: "📁Dubbo 文档",
             prefix: "/distributed/dubbo/",
             collapsible: true,
             expanded: false,
@@ -126,14 +126,14 @@ export default sidebar(
     "/java/":
     [
       { 
-        text: "Java 技术", 
+        text: "📁Java技术", 
         prefix: "/java/",
         icon: "earth-americas",
         collapsible: true,
         expanded: false,
         children: [
           {
-            text: "入门篇",
+            text: "📁入门篇",
             prefix: "/java/base",
             collapsible: true,
             expanded: false,
@@ -151,7 +151,7 @@ export default sidebar(
             ],
           },
           {
-            text: "进阶篇",
+            text: "📁进阶篇",
             prefix: "/java/advanced",
             collapsible: true,
             expanded: false,
@@ -167,14 +167,14 @@ export default sidebar(
     "/other/":
     [
       { 
-        text: "奇谈杂论", 
+        text: "📁奇谈杂论", 
         prefix: "/other/",
         icon: "earth-americas",
         collapsible: true,
         expanded: false,
         children: [
           {
-            text: "服务器",
+            text: "📁服务器",
             prefix: "/other/server/nginx",
             collapsible: true,
             expanded: false,
@@ -189,18 +189,66 @@ export default sidebar(
     "/interview/":
     [
       { 
-        text: "面试宝典", 
+        text: "📁面试宝典", 
         prefix: "/interview/",
-        icon: "earth-americas",
+        icon: "earth-americas", 
         collapsible: true,
         expanded: false,
         children: [
-          "java_base",
-          "thread",
-          "mybatis",
-          "spring",
-          "springboot",
-          "mysql"
+          {
+            text: "📁java基础常见面试题总结",
+            prefix: "/interview/javabase/",
+            collapsible: true,
+            expanded: false,
+            children: [
+              "java_base_upper",
+            ],
+          },
+          {
+            text: "📁java多线程常见面试题总结",
+            prefix: "/interview/thread/",
+            collapsible: true,
+            expanded: false,
+            children: [
+              "thread_upper",
+            ],
+          },
+          {
+            text: "📁mysql常见面试题总结",
+            prefix: "/interview/mysql/",
+            collapsible: true,
+            expanded: false,
+            children: [
+              "mysql_upper",
+            ],
+          },
+          {
+            text: "📁mybatis常见面试题总结",
+            prefix: "/interview/mybatis/",
+            collapsible: true,
+            expanded: false,
+            children: [
+              "mybatis_upper",
+            ],
+          },
+          {
+            text: "📁spring常见面试题总结",
+            prefix: "/interview/spring/",
+            collapsible: true,
+            expanded: false,
+            children: [
+              "spring_upper",
+            ],
+          },
+          {
+            text: "📁springboot常见面试题总结",
+            prefix: "/interview/springboot/",
+            collapsible: true,
+            expanded: false,
+            children: [
+              "springboot_upper",
+            ],
+          }
         ]
       }
     ]

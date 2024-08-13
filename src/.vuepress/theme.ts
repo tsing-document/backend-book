@@ -52,7 +52,7 @@ export default hopeTheme({
     // 开启公告信息
     notice: [
       {
-        path: "/",
+        path: "/backend-book/home",
         title: "Notice Title",
         confirm: true,
         fullscreen: true,
