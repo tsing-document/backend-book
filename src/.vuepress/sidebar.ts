@@ -211,6 +211,7 @@ export default sidebar(
             expanded: false,
             children: [
               "thread_upper",
+              "thread_center"
             ],
           },
           {
