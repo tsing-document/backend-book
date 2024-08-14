@@ -8,5 +8,8 @@
 
 【头条JAVA面试题】都是干货偶! 👉👉👉👉 [点击查看我的世界哈](/backend-book/files/interview/头条java面试题.pdf)  
 【并发编程基础知识】都是干货偶! 👉👉👉👉 [点击查看我的世界哈](/backend-book/files/interview/并发编程基础知识.pdf)    
-【12万字java面试总结】都是干货偶! 👉👉👉👉 [点击查看我的世界哈](/backend-book/files/interview/12万字java面经总结.pdf)
-【Java并发编程基础知识】都是干货偶! 👉👉👉👉 [点击查看我的世界哈](/backend-book/files/interview/Java并发编程基础知识.pdf)
+【12万字java面试总结】都是干货偶! 👉👉👉👉 [点击查看我的世界哈](/backend-book/files/interview/12万字java面经总结.pdf)   
+【Java并发编程基础知识】都是干货偶! 👉👉👉👉 [点击查看我的世界哈](/backend-book/files/interview/Java并发编程基础知识.pdf)   
+【JAVA核心面试知识整理】都是干货偶!这个不看会后悔 👉👉👉👉 [点击查看我的世界哈](/backend-book/files/interview/JAVA核心面试知识整理.pdf)       
+【并发容器和线程池】如果你想知道底层源码操作方式，这一篇你能找到你想要的答案 👉👉👉👉 [点击查看我的世界哈](/backend-book/files/interview/并发容器和线程池.pdf)     
+【AQS和JUC】都是干货偶！👉👉👉👉 [点击查看我的世界哈](/backend-book/files/interview/AQS和JUC.pdf)
