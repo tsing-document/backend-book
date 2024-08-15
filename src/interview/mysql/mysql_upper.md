@@ -1,5 +1,5 @@
 ---
-title: 🍾面试题总结(上) 
+title: 🍾mysql常见面试题总结(上)
 index: false
 isOriginal: true
 category: "面试宝典"

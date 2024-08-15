@@ -202,6 +202,7 @@ export default sidebar(
             expanded: false,
             children: [
               "java_base_upper",
+              "java_oop_upper"
             ],
           },
           {
@@ -221,6 +222,7 @@ export default sidebar(
             expanded: false,
             children: [
               "mysql_upper",
+              "mysql_center",
             ],
           },
           {
