@@ -118,6 +118,16 @@ export default sidebar(
             expanded: false,
             children: [
               "introduce",
+              "build_project"
+            ],
+          },
+          {
+            text: "📁Nacos 文档",
+            prefix: "/distributed/nacos/",
+            collapsible: true,
+            expanded: false,
+            children: [
+              "install",
             ],
           }
         ]
