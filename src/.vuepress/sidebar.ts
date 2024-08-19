@@ -192,6 +192,15 @@ export default sidebar(
               "introduce",
               "install"
             ],
+          },
+          {
+            text: "📁版本控制",
+            prefix: "/other/version_control/git",
+            collapsible: true,
+            expanded: false,
+            children: [
+              "introduce",
+            ],
           }
         ]
       }
