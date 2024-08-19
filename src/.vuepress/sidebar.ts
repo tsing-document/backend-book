@@ -200,6 +200,7 @@ export default sidebar(
             expanded: false,
             children: [
               "introduce",
+              "basic_commands"
             ],
           }
         ]
