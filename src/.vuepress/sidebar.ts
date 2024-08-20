@@ -236,13 +236,14 @@ export default sidebar(
             ],
           },
           {
-            text: "📁mysql常见面试题总结",
-            prefix: "/interview/mysql/",
+            text: "📁存储介质常见面试题总结",
+            prefix: "/interview/storage/",
             collapsible: true,
             expanded: false,
             children: [
               "mysql_upper",
               "mysql_center",
+              "redis_upper"
             ],
           },
           {
