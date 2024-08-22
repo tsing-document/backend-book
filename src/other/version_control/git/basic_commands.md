@@ -1,5 +1,5 @@
 ---
-title: 【第一篇章】GIT常用命令
+title: 【第二篇章】GIT常用命令
 index: false
 isOriginal: true
 category: "奇谈杂论"

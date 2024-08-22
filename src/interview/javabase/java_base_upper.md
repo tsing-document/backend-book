@@ -81,7 +81,7 @@ System.out.println(i1.equals(i2)); // true，即使不考虑缓存，equals()方
 - 被 final 修饰的方法 jvm会尝试内联 以提高运行效率
 - 被 final 修饰的常量，在编译阶段会存入常量池中
 
-## 七、java 反射的作用原理
+## 七、Java 反射的作用原理
 
 1、定义
 

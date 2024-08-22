@@ -17,7 +17,6 @@ export default sidebar(
             collapsible: true,
             expanded: false,
             children: [
-              // "sql"
               {
                 text: "📁基础",
                 collapsible: true,
@@ -34,7 +33,8 @@ export default sidebar(
                   "system-mysql-server",
                   "request-process",
                   "innodb",
-                  "binlog"
+                  "binlog",
+                  "framework"
                 ],
               },
               // {
@@ -170,6 +170,15 @@ export default sidebar(
               "springmvc",
               "mybatis"
             ],
+          },
+          {
+            text: "📁高级篇",
+            prefix: "/java/senior",
+            collapsible: true,
+            expanded: false,
+            children: [
+              "class_load"
+            ],
           }
         ]
       }
@@ -201,6 +210,16 @@ export default sidebar(
             children: [
               "introduce",
               "basic_commands"
+            ],
+          },
+          {
+            text: "📁团队管理",
+            prefix: "/other/team",
+            collapsible: true,
+            expanded: false,
+            children: [
+              "agility",
+              "yslow"
             ],
           }
         ]
