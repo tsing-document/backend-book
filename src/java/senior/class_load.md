@@ -95,4 +95,4 @@ public class MyClassLoaderTest {
   - 5、如果`扩展类加载器`可以加载，就直接加载，不能加载推给`应用类加载器`。
   - 6、如果`应用类加载器`可以加载，就直接加载，不能加载推给`自定义类加载器`。
   - 7、如果`自定义类加载器`可以加载，就直接加载，不能加载就会报`classNotFound`异常。
-<!-- ![](./img/jvm-classloader.png) -->
+![](./jvm-classloader.png)

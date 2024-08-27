@@ -5,14 +5,14 @@ export default sidebar(
     "/database/": 
     [
       { 
-        text: "📁数据库技术", 
+        text: "📁 数据库专栏", 
         prefix: "/database/",
         icon: "database",
         collapsible: true,
         expanded: false,
         children: [
           {
-            text: "📁MYSQL数据库",
+            text: "📁 MySQL",
             prefix: "/database/mysql/",
             collapsible: true,
             expanded: false,
@@ -37,17 +37,10 @@ export default sidebar(
                   "framework"
                 ],
               },
-              // {
-              //   text: "高级",
-              //   collapsible: true,
-              //   expanded: false,
-              //   prefix: "/database/mysql/intermediate/",
-              //   children: ["sql"],
-              // }
             ],
           },
           {
-            text: "📁REDIS数据库",
+            text: "📁 redis",
             prefix: "/database/redis/",
             collapsible: true,
             expanded: false,
@@ -61,27 +54,6 @@ export default sidebar(
               "dynamics-string",
               "list",
               "efficient"
-              // {
-              //   text: "基础",
-              //   collapsible: true,
-              //   expanded: false,
-              //   prefix: "/database/mysql/basic/",
-              //   children: ["introduce"],
-              // },
-              // {
-              //   text: "进阶",
-              //   collapsible: true,
-              //   expanded: false,
-              //   prefix: "/database/mysql/intermediate/",
-              //   children: ["sql"],
-              // },
-              // {
-              //   text: "高级",
-              //   collapsible: true,
-              //   expanded: false,
-              //   prefix: "/database/mysql/intermediate/",
-              //   children: ["sql"],
-              // }
             ],
           }
         ]
@@ -90,14 +62,14 @@ export default sidebar(
     "/distributed/":
     [
       { 
-        text: "📁分布式技术", 
+        text: "📁 分布式专栏", 
         prefix: "/distributed/",
         icon: "earth-americas",
         collapsible: true,
         expanded: false,
         children: [
           {
-            text: "📁Zookeeper 文档",
+            text: "📁 zookeeper",
             prefix: "/distributed/zookeeper/",
             collapsible: true,
             expanded: false,
@@ -112,7 +84,7 @@ export default sidebar(
             ],
           },
           {
-            text: "📁Dubbo 文档",
+            text: "📁 dubbo",
             prefix: "/distributed/dubbo/",
             collapsible: true,
             expanded: false,
@@ -122,7 +94,7 @@ export default sidebar(
             ],
           },
           {
-            text: "📁Nacos 文档",
+            text: "📁 nacos",
             prefix: "/distributed/nacos/",
             collapsible: true,
             expanded: false,
@@ -136,7 +108,7 @@ export default sidebar(
     "/java/":
     [
       { 
-        text: "📁Java技术", 
+        text: "📁Java 专栏", 
         prefix: "/java/",
         icon: "earth-americas",
         collapsible: true,
@@ -292,6 +264,28 @@ export default sidebar(
               "springboot_upper",
             ],
           }
+        ]
+      }
+    ],
+    "/python/":
+    [
+      { 
+        text: "📁Python 专栏", 
+        prefix: "/python/",
+        icon: "earth-americas",
+        collapsible: true,
+        expanded: false,
+        children: [
+          {
+            text: "📁入门篇",
+            prefix: "/python/base",
+            collapsible: true,
+            expanded: false,
+            children: [
+              "introduce",
+              "install-number-text-list"
+            ],
+          },
         ]
       }
     ]
