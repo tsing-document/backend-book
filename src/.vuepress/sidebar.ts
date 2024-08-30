@@ -151,6 +151,15 @@ export default sidebar(
             children: [
               "class_load"
             ],
+          },
+          {
+            text: "📁SpringBoot 篇章",
+            prefix: "/java/springboot",
+            collapsible: true,
+            expanded: false,
+            children: [
+              "jimuReport"
+            ],
           }
         ]
       }
