@@ -153,7 +153,7 @@ export default sidebar(
             ],
           },
           {
-            text: "📁SpringBoot 篇章",
+            text: "📁SpringBoot篇",
             prefix: "/java/springboot",
             collapsible: true,
             expanded: false,
