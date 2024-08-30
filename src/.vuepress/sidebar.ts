@@ -292,7 +292,9 @@ export default sidebar(
             expanded: false,
             children: [
               "introduce",
-              "install-number-text-list"
+              "install-number-text-list",
+              "process-control",
+              "function"
             ],
           },
         ]
