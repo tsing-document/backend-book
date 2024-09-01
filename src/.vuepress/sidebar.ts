@@ -55,6 +55,17 @@ export default sidebar(
               "list",
               "efficient"
             ],
+          },
+          {
+            text: "📁 influxdb",
+            prefix: "/database/influxdb/",
+            collapsible: true,
+            expanded: false,
+            children: [
+              "introduce",
+              "install",
+              "agreement"
+            ],
           }
         ]
       },
