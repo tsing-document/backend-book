@@ -305,7 +305,11 @@ export default sidebar(
               "introduce",
               "install-number-text-list",
               "process-control",
-              "function"
+              "function",
+              "data-structure",
+              "string-file",
+              "class",
+              "standard-library"
             ],
           },
         ]
