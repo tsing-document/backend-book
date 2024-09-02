@@ -64,7 +64,8 @@ export default sidebar(
             children: [
               "introduce",
               "install",
-              "agreement"
+              "agreement",
+              "commandline"
             ],
           }
         ]
