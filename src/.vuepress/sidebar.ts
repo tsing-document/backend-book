@@ -172,6 +172,15 @@ export default sidebar(
             children: [
               "jimuReport"
             ],
+          },
+          {
+            text: "📁脚手架篇",
+            prefix: "/java/ruoyi",
+            collapsible: true,
+            expanded: false,
+            children: [
+              "introduce"
+            ],
           }
         ]
       }
