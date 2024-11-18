@@ -49,12 +49,12 @@ export default hopeTheme({
   // 加密设置
   encrypt: {
     config: {
-      "/bookdownload/": ["bookdownload"],
-      "/database/": ["database"],
-      "/distributed/": ["distributed"],
-      "/interview/": ["mianshibaodian"],
-      "/java/": ["java"],
-      "/other/": ["other"],
+      // "/bookdownload/": ["bookdownload"],
+      // "/database/": ["database"],
+      // "/distributed/": ["distributed"],
+      // "/interview/": ["mianshibaodian"],
+      // "/java/": ["java"],
+      // "/other/": ["other"],
     },
   },
 

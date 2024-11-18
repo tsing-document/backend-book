@@ -186,6 +186,30 @@ export default sidebar(
         ]
       }
     ],
+    "/nestJs/":
+    [
+      { 
+        text: "nestJs 专栏", 
+        prefix: "/nestJs/",
+        icon: "earth-americas",
+        collapsible: true,
+        expanded: false,
+        children: [
+          {
+            text: "📁入门篇",
+            prefix: "/nestJs/base",
+            collapsible: true,
+            expanded: false,
+            children: [
+              "opening",
+              "Introduction-install",
+              "controller",
+              "provider"
+            ],
+          }
+        ]
+      }
+    ],
     "/other/":
     [
       { 
@@ -223,6 +247,15 @@ export default sidebar(
             children: [
               "agility",
               "yslow"
+            ],
+          },
+          {
+            text: "📁流媒体",
+            prefix: "/other/streaming_media",
+            collapsible: true,
+            expanded: false,
+            children: [
+              "service_install"
             ],
           }
         ]
