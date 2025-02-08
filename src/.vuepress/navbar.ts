@@ -6,6 +6,7 @@ export default navbar(
     { text: "Java 专栏", icon: "java", link: "/java/",  activeMatch: "^/java/$",  },
     { text: "nestJs 专栏", icon: "nestJs", link: "/nestJs/",  activeMatch: "^/nestJs/$",  },
     { text: "Python 专栏", icon: "java", link: "/python/",  activeMatch: "^/python/$",  },
+    { text: "C++ 专栏", icon: "c", link: "/c/",  activeMatch: "^/c/$",  },
     { text: "分布式专栏", icon: "edasqiyejifenbushiyingyongfuwu", link: "/distributed/",  activeMatch: "^/distributed/$",  },
     { text: "数据库专栏", icon: "shujuku", link: "/database/",  activeMatch: "^/database/$", },
     { text: "奇谈杂论", icon: "guaishou", link: "/other/",  activeMatch: "^/other/$", },

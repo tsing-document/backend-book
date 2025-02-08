@@ -2,10 +2,10 @@ import { sidebar } from "vuepress-theme-hope";
 
 export default sidebar(
   {
-    "/database/": 
+    "/database/":
     [
-      { 
-        text: "📁 数据库专栏", 
+      {
+        text: "📁 数据库专栏",
         prefix: "/database/",
         icon: "database",
         collapsible: true,
@@ -73,8 +73,8 @@ export default sidebar(
     ],
     "/distributed/":
     [
-      { 
-        text: "📁 分布式专栏", 
+      {
+        text: "📁 分布式专栏",
         prefix: "/distributed/",
         icon: "earth-americas",
         collapsible: true,
@@ -119,8 +119,8 @@ export default sidebar(
     ],
     "/java/":
     [
-      { 
-        text: "📁Java 专栏", 
+      {
+        text: "📁Java 专栏",
         prefix: "/java/",
         icon: "earth-americas",
         collapsible: true,
@@ -188,8 +188,8 @@ export default sidebar(
     ],
     "/nestJs/":
     [
-      { 
-        text: "nestJs 专栏", 
+      {
+        text: "nestJs 专栏",
         prefix: "/nestJs/",
         icon: "earth-americas",
         collapsible: true,
@@ -212,8 +212,8 @@ export default sidebar(
     ],
     "/other/":
     [
-      { 
-        text: "📁奇谈杂论", 
+      {
+        text: "📁奇谈杂论",
         prefix: "/other/",
         icon: "earth-americas",
         collapsible: true,
@@ -263,10 +263,10 @@ export default sidebar(
     ],
     "/interview/":
     [
-      { 
-        text: "📁面试宝典", 
+      {
+        text: "📁面试宝典",
         prefix: "/interview/",
-        icon: "earth-americas", 
+        icon: "earth-americas",
         collapsible: true,
         expanded: false,
         children: [
@@ -333,8 +333,8 @@ export default sidebar(
     ],
     "/python/":
     [
-      { 
-        text: "📁Python 专栏", 
+      {
+        text: "📁Python 专栏",
         prefix: "/python/",
         icon: "earth-americas",
         collapsible: true,
@@ -354,6 +354,27 @@ export default sidebar(
               "string-file",
               "class",
               "standard-library"
+            ],
+          },
+        ]
+      }
+    ],
+    "/c/":
+    [
+      {
+        text: "📁C++ 专栏",
+        prefix: "/c/",
+        icon: "earth-americas",
+        collapsible: true,
+        expanded: false,
+        children: [
+          {
+            text: "📁入门篇",
+            prefix: "/c/base",
+            collapsible: true,
+            expanded: false,
+            children: [
+              "introduce",
             ],
           },
         ]
