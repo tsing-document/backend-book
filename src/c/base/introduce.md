@@ -1,5 +1,5 @@
 ---
-title: 【第一篇章】 C++ 初识
+title: 【第一篇章】 初识
 index: false
 isOriginal: true
 category: "c++"

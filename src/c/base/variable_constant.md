@@ -1,5 +1,5 @@
 ---
-title: 【第二篇章】 C++ 变量和常量
+title: 【第二篇章】 变量和常量
 index: false
 isOriginal: true
 category: "c++"

@@ -376,6 +376,7 @@ export default sidebar(
             children: [
               "introduce",
               "variable_constant",
+              "storage_class"
             ],
           },
         ]
