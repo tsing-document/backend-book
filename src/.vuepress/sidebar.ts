@@ -375,6 +375,7 @@ export default sidebar(
             expanded: false,
             children: [
               "introduce",
+              "variable_constant",
             ],
           },
         ]
