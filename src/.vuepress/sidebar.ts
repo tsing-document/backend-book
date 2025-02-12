@@ -378,7 +378,8 @@ export default sidebar(
               "variable_constant",
               "storage_class",
               "loop_judgment_statement",
-              "function"
+              "function",
+              "array_string"
             ],
           },
         ]
