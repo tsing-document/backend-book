@@ -377,7 +377,8 @@ export default sidebar(
               "introduce",
               "variable_constant",
               "storage_class",
-              "loop_judgment_statement"
+              "loop_judgment_statement",
+              "function"
             ],
           },
         ]
