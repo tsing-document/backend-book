@@ -384,6 +384,27 @@ export default sidebar(
           },
         ]
       }
+    ],
+    "/practicalProject/":
+    [
+      {
+        text: "📁实战项目专栏",
+        prefix: "/practicalProject/",
+        icon: "earth-americas",
+        collapsible: true,
+        expanded: false,
+        children: [
+          {
+            text: "📁基础篇",
+            prefix: "/practicalProject/base",
+            collapsible: true,
+            expanded: false,
+            children: [
+              "002-Campus-Second-hand-Trading-Platform",
+            ],
+          },
+        ]
+      }
     ]
   },
 );

@@ -11,6 +11,7 @@ export default navbar(
     { text: "数据库专栏", icon: "shujuku", link: "/database/",  activeMatch: "^/database/$", },
     { text: "奇谈杂论", icon: "guaishou", link: "/other/",  activeMatch: "^/other/$", },
     { text: "面试宝典", icon: "stump", link: "/interview/",  activeMatch: "^/interview/$", },
+    { text: "实战项目", icon: "stump", link: "/practicalProject/",  activeMatch: "^/practicalProject/$", },
     { text: "书籍下载", icon: "jiandurenyuan", link: "/bookdownload/README.md",  activeMatch: "^/bookdownload/$", },
     "/mine/"
   ]
