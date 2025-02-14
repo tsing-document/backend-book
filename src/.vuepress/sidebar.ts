@@ -401,6 +401,7 @@ export default sidebar(
             expanded: false,
             children: [
               "002-Campus-Second-hand-Trading-Platform",
+              "003-Campus-Dormitory-Management-System",
             ],
           },
         ]
