@@ -402,6 +402,7 @@ export default sidebar(
             children: [
               "002-Campus-Second-hand-Trading-Platform",
               "003-Campus-Dormitory-Management-System",
+              "004-Clothing-Matching-Management-System",
             ],
           },
         ]
