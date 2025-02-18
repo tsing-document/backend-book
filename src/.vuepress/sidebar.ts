@@ -356,6 +356,15 @@ export default sidebar(
               "standard-library"
             ],
           },
+          {
+            text: "📁杂项",
+            prefix: "/python/miscellaneous",
+            collapsible: true,
+            expanded: false,
+            children: [
+                "client_database"
+            ]
+          }
         ]
       }
     ],
@@ -403,6 +412,7 @@ export default sidebar(
               "002-Campus-Second-hand-Trading-Platform",
               "003-Campus-Dormitory-Management-System",
               "004-Clothing-Matching-Management-System",
+              "006-fund-project.md",
             ],
           },
         ]
