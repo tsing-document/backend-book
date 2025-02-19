@@ -412,7 +412,8 @@ export default sidebar(
               "002-Campus-Second-hand-Trading-Platform",
               "003-Campus-Dormitory-Management-System",
               "004-Clothing-Matching-Management-System",
-              "006-fund-project.md",
+              "006-fund-project",
+              "007-Poverty-alleviation-information",
             ],
           },
         ]
