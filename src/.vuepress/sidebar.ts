@@ -414,7 +414,8 @@ export default sidebar(
               "004-Clothing-Matching-Management-System",
               "006-fund-project",
               "007-Poverty-alleviation-information",
-              "008-Health-product-management-platform"
+              "008-Health-product-management-platform",
+              "009-school-management-system",
             ],
           },
         ]
