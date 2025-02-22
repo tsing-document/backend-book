@@ -416,6 +416,7 @@ export default sidebar(
               "007-Poverty-alleviation-information",
               "008-Health-product-management-platform",
               "009-school-management-system",
+              "010-Appointment-blood-donation-management-system",
             ],
           },
         ]
