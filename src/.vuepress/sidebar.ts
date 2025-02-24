@@ -417,6 +417,7 @@ export default sidebar(
               "008-Health-product-management-platform",
               "009-school-management-system",
               "010-Appointment-blood-donation-management-system",
+              "011-Psychological-Test-Management-System",
             ],
           },
         ]
