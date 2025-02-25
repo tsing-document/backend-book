@@ -418,6 +418,7 @@ export default sidebar(
               "009-school-management-system",
               "010-Appointment-blood-donation-management-system",
               "011-Psychological-Test-Management-System",
+              "012-Pet-Adoption-System",
             ],
           },
         ]
