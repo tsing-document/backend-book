@@ -422,6 +422,7 @@ export default sidebar(
               "013-Online-government-appointment-management-system",
               "014-Scenic-spot-reservation-and-visit-management-system",
               "015-Campus-online-fruit-mini-program",
+              "016-Scenic-Area-Reservation-Management-System",
             ],
           },
         ]
