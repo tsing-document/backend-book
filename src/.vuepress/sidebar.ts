@@ -424,6 +424,7 @@ export default sidebar(
               "015-Campus-online-fruit-mini-program",
               "016-Scenic-Area-Reservation-Management-System",
               "017-Laboratory-reservation-management-system",
+              "020-Fitness-Management-System",
             ],
           },
         ]
