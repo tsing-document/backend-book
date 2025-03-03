@@ -426,6 +426,7 @@ export default sidebar(
               "017-Laboratory-reservation-management-system",
               "020-Fitness-Management-System",
               "023-Swimming-Club-Management-System",
+              "025-Cultural-Promotion-Platform",
             ],
           },
         ]
