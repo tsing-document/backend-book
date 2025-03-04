@@ -427,6 +427,7 @@ export default sidebar(
               "020-Fitness-Management-System",
               "023-Swimming-Club-Management-System",
               "025-Cultural-Promotion-Platform",
+              "027-Smart-ordering-system",
             ],
           },
         ]
