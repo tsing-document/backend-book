@@ -428,6 +428,7 @@ export default sidebar(
               "023-Swimming-Club-Management-System",
               "025-Cultural-Promotion-Platform",
               "027-Smart-ordering-system",
+              "028-Urban-Cultural-Management-System",
             ],
           },
         ]
