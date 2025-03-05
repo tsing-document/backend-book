@@ -430,6 +430,7 @@ export default sidebar(
               "027-Smart-ordering-system",
               "028-Urban-Cultural-Management-System",
               "029-Appointment-Visiting-Management-Platform",
+              "031-School-Club-Management-System",
             ],
           },
         ]
