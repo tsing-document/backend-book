@@ -429,6 +429,7 @@ export default sidebar(
               "025-Cultural-Promotion-Platform",
               "027-Smart-ordering-system",
               "028-Urban-Cultural-Management-System",
+              "029-Appointment-Visiting-Management-Platform",
             ],
           },
         ]
