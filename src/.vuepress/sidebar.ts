@@ -432,6 +432,7 @@ export default sidebar(
               "029-Appointment-Visiting-Management-Platform",
               "031-School-Club-Management-System",
               "032-Family-Search-Management-System",
+              "033-mall-system",
             ],
           },
         ]
