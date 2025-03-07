@@ -433,6 +433,7 @@ export default sidebar(
               "031-School-Club-Management-System",
               "032-Family-Search-Management-System",
               "033-mall-system",
+              "037-Smart-Campus-App-Management-System",
             ],
           },
         ]
