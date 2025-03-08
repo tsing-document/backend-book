@@ -435,6 +435,7 @@ export default sidebar(
               "033-mall-system",
               "037-Smart-Campus-App-Management-System",
               "038-Graduation-Design-Management-System",
+              "039-hotel-reservation-system",
             ],
           },
         ]
