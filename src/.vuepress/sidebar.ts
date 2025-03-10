@@ -437,6 +437,7 @@ export default sidebar(
               "038-Graduation-Design-Management-System",
               "039-hotel-reservation-system",
               "042-Han-Embroidery-Crafts-Sales-Website",
+              "043-parking-management-system",
             ],
           },
         ]
