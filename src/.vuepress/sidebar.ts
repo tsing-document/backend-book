@@ -438,6 +438,7 @@ export default sidebar(
               "039-hotel-reservation-system",
               "042-Han-Embroidery-Crafts-Sales-Website",
               "043-parking-management-system",
+              "044-Traditional-Chinese-Medicine-Outpatient-Management-System",
             ],
           },
         ]
