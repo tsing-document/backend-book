@@ -388,7 +388,8 @@ export default sidebar(
               "storage_class",
               "loop_judgment_statement",
               "function",
-              "array_string"
+              "array_string",
+              "document_writing"
             ],
           },
         ]
@@ -441,6 +442,7 @@ export default sidebar(
               "044-Traditional-Chinese-Medicine-Outpatient-Management-System",
               "045-Java-based-Langfang-City-Bus-Query-Website",
               "046-task-check-in-system",
+              "047-personnel-management-system",
             ],
           },
         ]
