@@ -443,6 +443,7 @@ export default sidebar(
               "045-Java-based-Langfang-City-Bus-Query-Website",
               "046-task-check-in-system",
               "047-personnel-management-system",
+              "048-Scenic-Area-Reservation-and-Visit-Management-System",
             ],
           },
         ]
