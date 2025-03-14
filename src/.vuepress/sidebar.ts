@@ -389,7 +389,9 @@ export default sidebar(
               "loop_judgment_statement",
               "function",
               "array_string",
-              "document_writing"
+              "document_writing",
+              "pointer",
+              "structure"
             ],
           },
         ]
@@ -444,6 +446,7 @@ export default sidebar(
               "046-task-check-in-system",
               "047-personnel-management-system",
               "048-Scenic-Area-Reservation-and-Visit-Management-System",
+              "049-Logistics-system",
             ],
           },
         ]
