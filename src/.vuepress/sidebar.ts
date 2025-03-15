@@ -447,6 +447,7 @@ export default sidebar(
               "047-personnel-management-system",
               "048-Scenic-Area-Reservation-and-Visit-Management-System",
               "049-Logistics-system",
+              "050-Second-hand-trading-platform",
             ],
           },
         ]
