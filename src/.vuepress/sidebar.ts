@@ -448,6 +448,7 @@ export default sidebar(
               "048-Scenic-Area-Reservation-and-Visit-Management-System",
               "049-Logistics-system",
               "050-Second-hand-trading-platform",
+              "052-Water-monitoring-and-management-system",
             ],
           },
         ]
