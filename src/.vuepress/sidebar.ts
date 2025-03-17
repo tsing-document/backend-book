@@ -449,6 +449,7 @@ export default sidebar(
               "049-Logistics-system",
               "050-Second-hand-trading-platform",
               "052-Water-monitoring-and-management-system",
+              "053-car-rental-system",
             ],
           },
         ]
