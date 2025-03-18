@@ -450,6 +450,7 @@ export default sidebar(
               "050-Second-hand-trading-platform",
               "052-Water-monitoring-and-management-system",
               "053-car-rental-system",
+              "054-oasys-management-system",
             ],
           },
         ]
