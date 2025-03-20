@@ -451,6 +451,8 @@ export default sidebar(
               "052-Water-monitoring-and-management-system",
               "053-car-rental-system",
               "054-oasys-management-system",
+              "055-Employment-Management-System",
+              "056-University-Student-Registration-Management-System",
             ],
           },
         ]
