@@ -454,6 +454,7 @@ export default sidebar(
               "055-Employment-Management-System",
               "056-University-Student-Registration-Management-System",
               "057-questionnaire-survey",
+              "058-Book-City-Management-System",
             ],
           },
         ]
