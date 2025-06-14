@@ -346,14 +346,19 @@ export default sidebar(
             collapsible: true,
             expanded: false,
             children: [
-              "introduce",
-              "install-number-text-list",
-              "process-control",
-              "function",
-              "data-structure",
-              "string-file",
-              "class",
-              "standard-library"
+              "01-introduce",
+              "02-variable",
+              "03-string",
+              "04-number",
+              "05-list",
+              "06-tuple",
+              "07-if",
+              "08-dict",
+              "09-input",
+              "10-while",
+              "11-function",
+              "12-class",
+              "13-file"
             ],
           },
           {
@@ -391,7 +396,8 @@ export default sidebar(
               "array_string",
               "document_writing",
               "pointer",
-              "structure"
+              "structure",
+              "core",
             ],
           },
         ]
@@ -455,10 +461,32 @@ export default sidebar(
               "056-University-Student-Registration-Management-System",
               "057-questionnaire-survey",
               "058-Book-City-Management-System",
+              "059-Textbook-Management-Backend",
             ],
           },
         ]
       }
-    ]
+    ],
+    "/aiandartificialintelligence/":
+    [
+      {
+        text: "📁AI和人工智能专栏",
+        prefix: "/c/",
+        icon: "earth-americas",
+        collapsible: true,
+        expanded: false,
+        children: [
+          {
+            text: "📁入门篇",
+            prefix: "/aiandartificialintelligence",
+            collapsible: true,
+            expanded: false,
+            children: [
+              "第一章",
+            ],
+          },
+        ]
+      }
+    ],
   },
 );

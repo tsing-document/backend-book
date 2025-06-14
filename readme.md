@@ -4,3 +4,6 @@
 
 # 本项目的文档
 https://theme-hope.vuejs.press/zh/
+
+
+# 本项目使用的是 18.20.3 nodejs
