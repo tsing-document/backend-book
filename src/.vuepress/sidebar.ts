@@ -470,7 +470,8 @@ export default sidebar(
             collapsible: true,
             expanded: false,
             children: [
-                "00007-扶贫项目"
+                "00007-扶贫项目",
+                "00008-宠物领养管理系统"
             ]
           }
         ]
