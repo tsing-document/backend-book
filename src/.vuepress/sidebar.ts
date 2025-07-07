@@ -471,7 +471,8 @@ export default sidebar(
             expanded: false,
             children: [
                 "00007-扶贫项目",
-                "00008-宠物领养管理系统"
+                "00008-宠物领养管理系统",
+                "00009-在线政务预约管理系统"
             ]
           }
         ]
