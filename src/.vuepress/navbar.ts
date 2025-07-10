@@ -12,7 +12,7 @@ export default navbar(
     { text: "奇谈杂论", icon: "guaishou", link: "/other/",  activeMatch: "^/other/$", },
     { text: "AI和人工智能", icon: "jiandurenyuan", link: "/aiandartificialintelligence/",  activeMatch: "^/aiandartificialintelligence/$", },
     { text: "面试宝典", icon: "stump", link: "/interview/",  activeMatch: "^/interview/$", },
-    { text: "学生项目", icon: "stump", link: "/学生项目/",  activeMatch: "^/学生项目/$", },
+    { text: "项目专栏", icon: "stump", link: "/项目专栏/",  activeMatch: "^/项目专栏/$", },
     { text: "书籍下载", icon: "jiandurenyuan", link: "/bookdownload/README.md",  activeMatch: "^/bookdownload/$", },
     "/mine/"
   ]
