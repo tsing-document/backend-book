@@ -412,58 +412,6 @@ export default sidebar(
         collapsible: true,
         expanded: false,
         children: [
-          // {
-          //   text: "📁基础篇-TODO",
-          //   prefix: "/practicalProject/base",
-          //   collapsible: true,
-          //   expanded: false,
-          //   children: [
-          //     "002-Campus-Second-hand-Trading-Platform",
-          //     "003-Campus-Dormitory-Management-System",
-          //     "004-Clothing-Matching-Management-System",
-          //     "006-fund-project",
-          //     "007-Poverty-alleviation-information",
-          //     "008-Health-product-management-platform",
-          //     "009-school-management-system",
-          //     "010-Appointment-blood-donation-management-system",
-          //     "011-Psychological-Test-Management-System",
-          //     "012-Pet-Adoption-System",
-          //     "013-Online-government-appointment-management-system",
-          //     "014-Scenic-spot-reservation-and-visit-management-system",
-          //     "015-Campus-online-fruit-mini-program",
-          //     "016-Scenic-Area-Reservation-Management-System",
-          //     "017-Laboratory-reservation-management-system",
-          //     "020-Fitness-Management-System",
-          //     "023-Swimming-Club-Management-System",
-          //     "025-Cultural-Promotion-Platform",
-          //     "027-Smart-ordering-system",
-          //     "028-Urban-Cultural-Management-System",
-          //     "029-Appointment-Visiting-Management-Platform",
-          //     "031-School-Club-Management-System",
-          //     "032-Family-Search-Management-System",
-          //     "033-mall-system",
-          //     "037-Smart-Campus-App-Management-System",
-          //     "038-Graduation-Design-Management-System",
-          //     "039-hotel-reservation-system",
-          //     "042-Han-Embroidery-Crafts-Sales-Website",
-          //     "043-parking-management-system",
-          //     "044-Traditional-Chinese-Medicine-Outpatient-Management-System",
-          //     "045-Java-based-Langfang-City-Bus-Query-Website",
-          //     "046-task-check-in-system",
-          //     "047-personnel-management-system",
-          //     "048-Scenic-Area-Reservation-and-Visit-Management-System",
-          //     "049-Logistics-system",
-          //     "050-Second-hand-trading-platform",
-          //     "052-Water-monitoring-and-management-system",
-          //     "053-car-rental-system",
-          //     "054-oasys-management-system",
-          //     "055-Employment-Management-System",
-          //     "056-University-Student-Registration-Management-System",
-          //     "057-questionnaire-survey",
-          //     "058-Book-City-Management-System",
-          //     "059-Textbook-Management-Backend",
-          //   ],
-          // },
           {
             text: "📁 00001-00050",
             prefix: "/项目专栏/学生项目/00001-00050",
@@ -482,6 +430,27 @@ export default sidebar(
         ]
       }
     ],
+    "/网页设计/":
+        [
+          {
+            text: "📁网页设计",
+            prefix: "/网页设计/",
+            icon: "earth-americas",
+            collapsible: true,
+            expanded: false,
+            children: [
+              {
+                text: "📁 AI软件",
+                prefix: "/网页设计/ai",
+                collapsible: true,
+                expanded: false,
+                children: [
+                  "01-todo",
+                ]
+              }
+            ]
+          }
+        ],
     "/aiandartificialintelligence/":
     [
       {
