@@ -426,6 +426,7 @@ export default sidebar(
                 "00012-基于微信小程序的景点预约系统",
                 "00013-实验室预约管理系统",
                 "00014-健身房预约管理系统",
+                "00015-文化宣传系统",
             ]
           }
         ]
@@ -446,7 +447,8 @@ export default sidebar(
                 collapsible: true,
                 expanded: false,
                 children: [
-                  "01-todo",
+                    "01-新建",
+                    "01-todo",
                 ]
               }
             ]
