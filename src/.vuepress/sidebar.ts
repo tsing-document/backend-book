@@ -478,5 +478,26 @@ export default sidebar(
         ]
       }
     ],
+    "/书籍/":
+    [
+      {
+        text: "📁教育",
+        prefix: "/教育",
+        icon: "earth-americas",
+        collapsible: true,
+        expanded: false,
+        children: [
+          {
+            text: "📁语文",
+            prefix: "/书籍/教育/苏教版/语文",
+            collapsible: true,
+            expanded: false,
+            children: [
+              "第一册",
+            ],
+          },
+        ]
+      }
+    ],
   },
 );

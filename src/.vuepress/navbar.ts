@@ -15,6 +15,7 @@ export default navbar(
     { text: "面试宝典", icon: "stump", link: "/interview/",  activeMatch: "^/interview/$", },
     { text: "项目专栏", icon: "stump", link: "/项目专栏/",  activeMatch: "^/项目专栏/$", },
     { text: "书籍下载", icon: "jiandurenyuan", link: "/bookdownload/README.md",  activeMatch: "^/bookdownload/$", },
-    "/mine/"
+    { text: "书籍", icon: "jiandurenyuan", link: "/书籍/",  activeMatch: "^/书籍/$", },
+      "/mine/"
   ]
 );
