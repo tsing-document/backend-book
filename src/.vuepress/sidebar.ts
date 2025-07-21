@@ -495,6 +495,7 @@ export default sidebar(
             expanded: false,
             children: [
               "第一册",
+              "第二册",
             ],
           },
         ]
