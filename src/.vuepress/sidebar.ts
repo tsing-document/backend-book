@@ -508,7 +508,7 @@ export default sidebar(
         expanded: false,
         children: [
           {
-            text: "📁语文",
+            text: "📁苏教版语文",
             prefix: "/书籍/教育/苏教版/语文",
             collapsible: true,
             expanded: false,
@@ -543,6 +543,14 @@ export default sidebar(
               "第二十八册",
               "第二十九册",
             ],
+          },
+          {
+            text: "📁北师大版语文",
+            prefix: "/书籍/教育/北师大/语文",
+            collapsible: true,
+            expanded: false,
+            children: [
+              "第一册",            ],
           },
         ]
       }
