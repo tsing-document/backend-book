@@ -550,7 +550,9 @@ export default sidebar(
             collapsible: true,
             expanded: false,
             children: [
-              "第一册",            ],
+              "第一册",
+              "第二册",
+            ],
           },
         ]
       }
